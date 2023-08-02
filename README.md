@@ -1,13 +1,16 @@
-## Create a React App to Fetch Data From The Chuck Norris API
+# App React- Fetch para el consumo de la Api Chuck Norris
 
-This is the code for an article I wrote about creating a React app to fetch data from an API. The API we will be using is the Chuck Norris API.
+Este proyecto se implemento usando react y fetch para realizar los llamados asyncronos de la Api Chuck Norris para mostrar las categorias disponibles y para ver chistes de forma aleatoria
 
-## Screenshots
 
-Here is what we will create:
+A continuación se muestra el estado final de la aplicación:
 
-![React app calling chuck norris api](https://res.cloudinary.com/ratracegrad/image/upload/v1673823052/Screenshot_2023-01-15_at_5.49.59_PM_bolj4a.png)
+[App React para el llamado de la Api Chuck Norris]![Alt text](./public/image.png)
 
-## Read the article
+### Pasos para descargar la aplicación
+- Clonar el repositorio
+- Ejecutar el comando [npm install] en la terminal para crear la carpeta node_modules
+- Ejecutar la aplicación en la terminal con el comando [npm run start]
 
-You can [read the article here](https://www.jenniferbland.com/?p=2024&preview=true).
+### Author
+[@LilianaGallego](https://github.com/LilianaGallego) - Martha Liliana Gallego Murillo
